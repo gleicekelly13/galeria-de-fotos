@@ -15,3 +15,8 @@ Projeto criado com o objetivo de praticar css grid, object fit e responsividade.
 <img src="https://user-images.githubusercontent.com/80974593/195753837-d00f48de-38b1-4cfa-baf4-82e8a3c21d9c.png"  width="300"/>
 </div>
 <br>
+
+<h2 align="center">:hourglass: Status do projeto </h2>
+<h4>:white_check_mark: Desktop - FINALIZADO :white_check_mark: </h4> 
+<h4>:white_check_mark: Mobile - FINALIZADO :white_check_mark: </h4>
+<br>
