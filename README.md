@@ -21,6 +21,9 @@ Projeto criado com o objetivo de praticar css grid, object fit e responsividade.
 <h4>:white_check_mark: Mobile - FINALIZADO :white_check_mark: </h4>
 <br>
 
+<h2 align="center"> :file_folder: Acesso ao projeto </h2>
+<p> Você pode acessar o projeto final clicando aqui: https://https://github.com/gleicekelly13/galeria-de-fotos</p>
+
 <br>
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
 <p>HTML5</p>
