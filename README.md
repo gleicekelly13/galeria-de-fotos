@@ -22,6 +22,8 @@
 <br>
 
 <h2 align="center">:hammer: Funcionalidades do projeto </h2>
+<p>Galeria de fotos que se adapta a diferentes tipos de layout.</p>
+<br>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
 <p> Você pode acessar o projeto final clicando aqui: https:https://gleicekelly13.github.io/galeria-de-fotos/</p>
