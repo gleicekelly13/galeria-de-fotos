@@ -1,6 +1,6 @@
 <h1 align="center">Galeria de fotos</h1>
 <h2 align="center">:page_facing_up: Descrição do projeto</h2>
-Projeto criado com o objetivo de praticar css grid, object fit e responsividade.
+<p>Galeria de fotos, estilo catálogo de praias com uma breve descrição sobre cada uma delas.</p>
 <br>
 
 ## :desktop_computer: Desktop design
